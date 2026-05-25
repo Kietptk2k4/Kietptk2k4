@@ -83,6 +83,14 @@ A scalable second-hand marketplace platform built with Microservices Architectur
 
 ---
 
+### 💻 laptop_NEW
+
+IoT and embedded systems project for laptop management and monitoring.
+
+🔗 Repository: https://github.com/Kietptk2k4/laptop_NEW
+
+---
+
 ### 📚 Project_TrungTamGiaSu
 
 Tutoring center management system with role-based features.
